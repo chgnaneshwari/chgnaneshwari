@@ -21,7 +21,7 @@
 👨‍💻  I am passionate about Data, API's, and python & enjoy new things . </br>
 
 ### My Experiences 🙌
-- [Junior Data Analyst (Inter)]-Analyatica] - (May'24-sep'24)
+- [Junior Data Analyst (Inter)]-Analyatica - (May'24-sep'24)
 - [Programee Analyst trainee(intern)]Cognizant - (Jul'22-Dec'22)
 
 <!--![Gnaneshwari's github stats](https://github-readme-stats.vercel.app/api?username=chgnaneshwari&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
