@@ -17,8 +17,8 @@
 <br />
 
 ### About Me 🚀
-🌱 I’m a Python and Data Analyst with a masters degree in Computer Science and Information system . </br>
-👨‍💻  I am passionate about Data, API's, and python & enjoy new things . </br>
+🌱 I'm a Python and Data Analyst with a masters degree in Computer Science and Information system . </br>
+👨‍💻  I'm passionate about Data, API's, and python & enjoy new things . </br>
 
 ### My Experiences 🙌
 - Junior Data Analyst (Intern)  Grofers- (May'24-sep'24)
