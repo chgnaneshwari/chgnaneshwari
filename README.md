@@ -28,8 +28,5 @@
 ![Gnaneshwari's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chgnaneshwari&layout=compact&langs_count=8&hide_border=true)
 <br />
 
-
-
-- [Add a README for your profile : GitHub feature](https://isupersky.medium.com/add-a-readme-for-your-profile-github-feature-8f1ac11cb112)
 <br/>
 
