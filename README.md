@@ -21,8 +21,8 @@
 👨‍💻  I am passionate about Data, API's, and python & enjoy new things . </br>
 
 ### My Experiences 🙌
-- Junior Data Analyst (Inter)  Grofers- (May'24-sep'24)
-- Programee Analyst trainee(intern) Cognizant - (Jul'22-Dec'22)
+- Junior Data Analyst (Intern)  Grofers- (May'24-sep'24)
+- Programee Analyst trainee(Intern) Cognizant - (Jul'22-Dec'22)
 
 <!--![Gnaneshwari's github stats](https://github-readme-stats.vercel.app/api?username=chgnaneshwari&show_icons=true&hide_border=true)&nbsp;&nbsp;-->
 ![Gnaneshwari's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=chgnaneshwari&layout=compact&langs_count=8&hide_border=true)
